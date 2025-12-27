@@ -2,6 +2,6 @@ Things to do
 - Profile
 - Work Experience
 - Extracurriculars
-	-Trainings
+	- Trainings
 		- [[sql]]
 		- [[prompt engineering]]
