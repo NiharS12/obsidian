@@ -1,4 +1,7 @@
 Things to do
 - Profile
 - Work Experience
-- Extracurriculars [[sql]]
+- Extracurriculars
+	- Trainings
+		- [[sql]]
+		- [[propt engineering]]
