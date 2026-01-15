@@ -38,3 +38,7 @@
 		- Family Reunification
 		- Currency Equivalence
 			- Value of work in new country outweighs present situation
+## Impacts
+- Fertility Cliff present among latino communities
+	- Latino fertility rates typically higher than other groups
+	- Experiencing simil
