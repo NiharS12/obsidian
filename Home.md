@@ -3,3 +3,5 @@
 [[Appeal]]
 [[Coursework]]
 [[Schedule]]
+[[Class Notes]]
+
