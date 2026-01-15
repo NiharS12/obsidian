@@ -44,3 +44,5 @@
 	- Experiencing drop-off equivalent to other populations
 - People of hispanic origin experience worse economic standing than White and Asian households
 - Higher portion of persons in poverty in Hispanic Populations
+- Homeownership follows similar trends
+	- Indicator and precursor for generational 
