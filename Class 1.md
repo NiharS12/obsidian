@@ -42,3 +42,5 @@
 - Fertility Cliff present among latino communities
 	- Latino fertility rates typically higher than other groups
 	- Experiencing dropoff equivalent to other populations
+- People of hispanic origin experience worse economic standing than White and Asian households
+- 
