@@ -46,3 +46,4 @@
 - Higher portion of persons in poverty in Hispanic Populations
 - Homeownership follows similar trends
 	- Indicator and precursor for generational wealth accrual
+- Paradox of worse health outcomes, and insurance rates but higher life expectencies
