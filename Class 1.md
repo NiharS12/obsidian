@@ -22,4 +22,6 @@
 - Cuba long time second largest contributor but recently replaced with El Salvador
 	- Small land area but high population density
 	- Hardship affects many people concurrently due to small area
-- South America and Caribbean grown 
+- South America and Caribbean growth increased significantly
+	- Initially non-existent due to geographic distance between countries
+	- Situation forces extreme measures like pedestrian migration to US
