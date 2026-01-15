@@ -31,4 +31,7 @@
 		- War
 		- Economic downturn
 		- Natural Disasters
-		- Po
+		- Political Persecution
+	- Pull: Forces attracting immigrants
+		- Family Reuinification
+		- 
