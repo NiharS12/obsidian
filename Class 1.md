@@ -19,5 +19,7 @@
 	- Includes Spain but Spain not Latino
 ## Trends
 - Mexico remains largest Country of Origin for latino immigrants
-- Cuba long time second largest contrubutor but recently replaced with El Salvador
-	- Small land area but high 
+- Cuba long time second largest contributor but recently replaced with El Salvador
+	- Small land area but high population density
+	- Hardship affects many people concurrently due to small area
+- South America and Caribbean grown 
