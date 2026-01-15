@@ -41,4 +41,4 @@
 ## Impacts
 - Fertility Cliff present among latino communities
 	- Latino fertility rates typically higher than other groups
-	- Experiencing simil
+	- Experiencing dropoff equivalent to other populations
