@@ -17,4 +17,7 @@
 		- Includes Brazil but Brazil not hispanic
 - Hispanic: From Spanish Speaking countries
 	- Includes Spain but Spain not Latino
-## Trend
+## Trends
+- Mexico remains largest Country of Origin for latino immigrants
+- Cuba long time second largest contrubutor but recently replaced with El Salvador
+	- Small land area but high 
