@@ -7,6 +7,7 @@
 - Cuban Revolution and opposition of castro 1959
 ## Takeaways
 - No interaction between different Latino groups in the US early on
+	- 
 - Latinos counted in census begining in 1980s
 ## Terminology
 - Latino People from/descendants from latin America
@@ -33,5 +34,6 @@
 		- Natural Disasters
 		- Political Persecution
 	- Pull: Forces attracting immigrants
-		- Family Reuinification
-		- 
+		- Family Reunification
+		- Currency Equivalence
+			- Value of work in new country outweighs present situation
