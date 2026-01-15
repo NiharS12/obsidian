@@ -7,7 +7,8 @@
 - Cuban Revolution and opposition of castro 1959
 ## Takeaways
 - No interaction between different Latino groups in the US early on
-	- 
+	- Migration and resettling reduces geographic pockets of certain nationality
+		- South seen largest increase in Latino population since 2010
 - Latinos counted in census begining in 1980s
 ## Terminology
 - Latino People from/descendants from latin America
