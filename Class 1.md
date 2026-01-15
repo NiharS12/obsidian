@@ -17,3 +17,4 @@
 		- Includes Brazil but Brazil not hispanic
 - Hispanic: From Spanish Speaking countries
 	- Includes Spain but Spain not Latino
+## Trend
