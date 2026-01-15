@@ -45,4 +45,4 @@
 - People of hispanic origin experience worse economic standing than White and Asian households
 - Higher portion of persons in poverty in Hispanic Populations
 - Homeownership follows similar trends
-	- Indicator and precursor for generational 
+	- Indicator and precursor for generational wealth accrual
