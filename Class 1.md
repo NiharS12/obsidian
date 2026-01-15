@@ -25,3 +25,5 @@
 - South America and Caribbean growth increased significantly
 	- Initially non-existent due to geographic distance between countries
 	- Situation forces extreme measures like pedestrian migration to US
+## Immigration Factors
+- Causes of Immigration divided into push and pull fa
