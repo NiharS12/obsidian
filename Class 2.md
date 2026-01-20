@@ -18,4 +18,7 @@
 		- High level mandates, political attitudes surrounding vaccines
 ## Risk and Protective Factors
 - Risk factors: Characteristics that put an indivudual at risk for a disease or engaging in negative behavior
-- Protective Factors: Characteristics that can be protective for a disease or engaging 
+- Protective Factors: Characteristics that can be protective for a disease or engaging in negative factors
+	- Can act as buffers to risk factors
+- Occur at each level of SE model
+- Same factor can be 
