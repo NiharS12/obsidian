@@ -28,4 +28,4 @@
 	- Immigration Status a pervasive SDH for Latino Health
 	- Non-medical factors
 - Health disparity: Particular type of health difference that is closely linked with social or economic disadvantage
-- Health equity: Absence of systemic disparities in health or determinants of health between population groups in a social 
+- Health equity: Absence of systemic disparities in health or determinants of health between population groups in a social heirarchy or with different levels of social advantage or disadvantage
