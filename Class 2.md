@@ -21,4 +21,5 @@
 - Protective Factors: Characteristics that can be protective for a disease or engaging in negative factors
 	- Can act as buffers to risk factors
 - Occur at each level of SE model
-- Same factor can be 
+- Same factor can be risk or protective factor
+	- Socioeconomic status is protective at high end, risk at low 
