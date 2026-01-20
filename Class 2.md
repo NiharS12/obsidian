@@ -16,4 +16,3 @@
 		- Access to opportunities: low income neighborhoods vs close communities
 	- Societal: Policies, laws, cultural interactions, systemic factors
 		- High level mandates, political attitudes surrounding vaccines
-- 
