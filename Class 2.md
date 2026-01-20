@@ -6,4 +6,7 @@
 - Monitor interventions to assess effectiveness
 ## Social Ecological Models
 - Understanding that health behaviors and outcomes are influenced by various levels
-	- Individual: G
+	- Individual: personal knowledge, beliefs, experiences, genetics
+	- Interpersonal: family, friends, social network
+	- Organizational: School, church, other orgs.
+	- Community: 
