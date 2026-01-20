@@ -11,7 +11,7 @@
 	- Interpersonal: Family, friends, social network
 		- Ideologies and shared beliefs, 
 	- Organizational: School, church, other orgs.
-		- Of
+		- Offering accessibility
 	- Community: Local culture, natural and built environment
 	- Societal: Policies, laws, cultural interactions, systemic factors
 - 
