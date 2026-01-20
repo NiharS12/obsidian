@@ -24,4 +24,7 @@
 - Same factor can be risk or protective factor
 	- Socioeconomic status is protective at high end, risk at low end
 ## Social Determinants of Health
-- Complex, integrated, overlapping social
+- Complex, integrated, overlapping social and economic systems that can affect health
+	- Immigration Status a pervasive SDH for Latino Health
+	- Non-medical factors
+- Health disparity: Particular type of heaoth difference tha
