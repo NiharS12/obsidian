@@ -5,4 +5,5 @@
 - Implement interventions at the population level
 - Monitor interventions to assess effectiveness
 ## Social Ecological Models
-- 
+- Understanding that health behaviors and outcomes are influenced by various levels
+	- Individual: G
