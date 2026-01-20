@@ -1,7 +1,5 @@
 ## To Do
 [[LinkedIn]]
-[[Appeal]]
-[[Coursework]]
-[[Schedule]]
+## Categories
 [[Class Notes]]
 
