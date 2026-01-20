@@ -13,7 +13,7 @@
 	- Organizational: School, church, other orgs.
 		- Offering accessibility, organizational mandates for participation
 	- Community: Local culture, natural and built environment
-		- Access to opportunites: low income neighborhoods vs close communities
+		- Access to opportunities: low income neighborhoods vs close communities
 	- Societal: Policies, laws, cultural interactions, systemic factors
-		- 
+		- High level mandates, political attitudes surrounding vaccines
 - 
