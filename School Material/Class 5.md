@@ -21,4 +21,5 @@
 		- National identity first then all others after
 			- French then other identities
 	- Lack of data used to support claims of absence of racism despite lived experiences
-	- 
+	- Lack of exposure presents challenges upon change
+		- Puerto Rico reporting as white due to lack of familiarity
