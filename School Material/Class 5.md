@@ -20,4 +20,5 @@
 	- European nations collect less racial data after WW2
 		- National identity first then all others after
 			- French then other identities
+	- Lack of data used to support claims of absence of racism despite lived experiences
 	- 
