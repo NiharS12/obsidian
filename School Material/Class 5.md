@@ -15,4 +15,6 @@
 			- **Africans**: People of African origin
 		- Reference: ***Algorithms of Oppression*** by Safiya Noble
 ### Health System and Racism
-- 
+- Health Data often not referencing Race and Ethnicity
+	- Prototypical American Development
+	- European nations colle
