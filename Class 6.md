@@ -4,4 +4,4 @@
 	- Ethnic and Racial identity
 		- Colorism and outward appearance signiciantly dictates treatment
 		- Ojos Claros or lighter skin favored
-		- 
+		- Allocation 
