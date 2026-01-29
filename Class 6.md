@@ -4,4 +4,5 @@
 	- Ethnic and Racial identity
 		- Colorism and outward appearance signiciantly dictates treatment
 		- Ojos Claros or lighter skin favored
-		- Allocation 
+		- Colorism:
+			- Allocation of privilege based on lightness or darkness of one's skin
