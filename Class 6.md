@@ -8,4 +8,5 @@
 			- Allocation of privilege based on lightness or darkness of one's skin
 		- Latin American Social Caste Privillage
 			- **Spaniards:/Peninsulares:** 2 people of spanish decent born in spain 
-			- **Criollos**: Two people of 
+			- **Criollos**: Two people of Spanish decent born in the Colonies
+			- 
