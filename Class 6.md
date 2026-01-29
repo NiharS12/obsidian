@@ -6,4 +6,6 @@
 		- Ojos Claros or lighter skin favored
 		- Colorism:
 			- Allocation of privilege based on lightness or darkness of one's skin
-- 
+		- Latin American Social Caste Privillage
+			- Spaniards: 2 people of spanish decent born in spain
+			- 
