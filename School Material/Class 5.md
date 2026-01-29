@@ -1,4 +1,4 @@
-## Race and Ethnicity in Latino Populations
+### Race and Ethnicity in Latino Populations
 - Complicated by country of origin
 	- Internal racial experiences compounded by US experiences with race
 	- Ethnic and Racial identity
@@ -14,3 +14,5 @@
 			- **Indios**: People of Indigenous origin
 			- **Africans**: People of African origin
 		- Reference: ***Algorithms of Oppression*** by Safiya Noble
+### Health System and Racism
+- 
