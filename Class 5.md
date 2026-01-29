@@ -7,7 +7,8 @@
 		- Colorism:
 			- Allocation of privilege based on lightness or darkness of one's skin
 		- Latin American Social Caste Privillage
-			- **Spaniards:/Peninsulares:** 2 people of spanish decent born in spain 
+			- **Spaniards:/Peninsulares:** 2 people of Spanish decent born in spain 
 			- **Criollos**: Two people of Spanish decent born in the Colonies
-			- **Mestizos**: People of mixed Spanish and Idegenious decent
-			- **Mulatos
+			- **Mestizos**: People of mixed Spanish and Indigenous decent
+			- **Mulattoes**: People of mixed Spanish and African decent
+			- **Indios**: People of
