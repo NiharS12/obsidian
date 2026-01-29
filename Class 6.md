@@ -6,3 +6,4 @@
 		- Ojos Claros or lighter skin favored
 		- Colorism:
 			- Allocation of privilege based on lightness or darkness of one's skin
+- 
