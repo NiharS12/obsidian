@@ -13,4 +13,4 @@
 			- **Mulattoes**: People of mixed Spanish and African decent
 			- **Indios**: People of Indigenous origin
 			- **Africans**: People of African origin
-		- Reference: ***Algorithms of Oppression*** by Safia 
+		- Reference: ***Algorithms of Oppression*** by Safiya Noble
