@@ -17,4 +17,7 @@
 ### Health System and Racism
 - Health Data often not referencing Race and Ethnicity
 	- Prototypical American Development
-	- European nations colle
+	- European nations collect less racial data after WW2
+		- National identity first then all others after
+			- French then other identities
+	- 
