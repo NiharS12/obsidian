@@ -9,4 +9,5 @@
 		- Latin American Social Caste Privillage
 			- **Spaniards:/Peninsulares:** 2 people of spanish decent born in spain 
 			- **Criollos**: Two people of Spanish decent born in the Colonies
-			- 
+			- **Mestizos**: People of mixed Spanish and Idegenious decent
+			- **Mulatos
