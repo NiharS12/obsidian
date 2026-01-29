@@ -11,4 +11,5 @@
 			- **Criollos**: Two people of Spanish decent born in the Colonies
 			- **Mestizos**: People of mixed Spanish and Indigenous decent
 			- **Mulattoes**: People of mixed Spanish and African decent
-			- **Indios**: People of
+			- **Indios**: People of Indigenous origin
+			- **Africans**: People of African origin
