@@ -51,32 +51,16 @@ Table Information: Participant Characteristics (Table 3) 
 ## Article 2: Dissemination of Evidence-Based Cancer Control Interventions Among Catholic Faith-Based Organizations
 
 **Focus:** Testing organizational-level strategies to increase the capacity of Catholic faith-based organizations (FBOs) to implement evidence-based cancer control.
-
-+1
-
 ### Summary
 
 The **CRUZA** randomized trial involved 31 Catholic parishes serving Latinos in Massachusetts. It compared a **Capacity Enhancement (CE)** intervention—offering technical assistance, workshops, and health committee building—against **Standard Dissemination (SD)**, which provided a toolkit and a one-time consultation. The study aimed to see if parishes could successfully adopt evidence-based strategies (EBS) to promote breast, cervical, and colorectal cancer screening.
 
-+4
-
 ### Key Takeaway Points
 
-- **Feasibility of FBOs:** Catholic parishes are trusted "natural settings" for reaching underserved Latinos marginalized from the mainstream health system.
-    
-    +1
-    
+- **Feasibility of FBOs:** Catholic parishes are trusted "natural settings" for reaching underserved Latinos marginalized from the mainstream health system.    
 - **Intervention Efficacy:** All participating parishes increased their cancer control activities. The CE group was significantly more likely to implement **small media** (90% vs 64% for SD).
-    
-    +1
-    
 - **Readiness:** Findings suggest parishes may already have the capacity to implement health programs if materials are culturally adapted and "packaged" for lay leaders.
-    
 - **Implementation Preference:** Parishes most frequently utilized small media (bookmarks, bulletin inserts) because they were less complex to implement than one-to-one education or reducing structural barriers.
-    
-    +1
-    
-
 Table Information: CRUZA Evidence-Based Strategies (Table 1) 
 
 |**EBS Type**|**Community Guide Definition**|**Sample Packaged Materials**|
