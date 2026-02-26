@@ -8,18 +8,14 @@ The provided articles explore public health interventions tailored specifically 
 ## Article 1: Delivering the Same Intervention to Hispanic/Latinos With Pre-diabetes and Diabetes
 
 **Focus:** Exploring the feasibility of a joint community health worker (CHW)-led intervention for both individuals with diabetes and those at risk for diabetes.
-
 ### Summary
-
 This longitudinal mixed-method study assessed the **Vida Vibrante** (Vibrante Life) program in Southern California. Traditional models separate individuals into different programs based on diagnosis—the National Diabetes Prevention Program (NDPP) for pre-diabetes and Diabetes Self-management Education and Support (DSMES) for diabetes—which can create barriers for low-income H/L families who rely on collective support. The study found that a "hybrid" approach—treating the whole family regardless of their specific place on the dysglycemic spectrum—is feasible, cost-effective, and culturally acceptable.
 ### Key Takeaway Points
-
 - **Cultural Congruence:** Utilizing CHWs (promotores) and including family or friends significantly improved weight loss and retention.
 - **Clinical Success:** Participants achieved an average weight loss of **3.29 lbs** (a large effect size of $d=0.77$).
 - **Physician Influence:** Participants referred by a physician lost nearly twice as much weight (**5.19 lbs**) as those recruited from the community (**2.68 lbs**).
 - **Cost-Effectiveness:** The program cost less than **$200 per participant**, compared to the $500–$800 range for national programs.
 - **Barriers Identified:** Qualitative data highlighted barriers such as male gender (lower attendance), lack of safe neighborhood spaces for exercise, and financial constraints regarding healthy food.
-
 ### Table Information: Participant Characteristics (Table 3) 
 
 |**Characteristic**|**NDM Group (No Diabetes)**|**DM Group (Diabetes)**|
