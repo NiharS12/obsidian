@@ -16,7 +16,7 @@ This longitudinal mixed-method study assessed the **Vida Vibrante** (Vibrante 
 - **Physician Influence:** Participants referred by a physician lost nearly twice as much weight (**5.19 lbs**) as those recruited from the community (**2.68 lbs**).
 - **Cost-Effectiveness:** The program cost less than **$200 per participant**, compared to the $500–$800 range for national programs.
 - **Barriers Identified:** Qualitative data highlighted barriers such as male gender (lower attendance), lack of safe neighborhood spaces for exercise, and financial constraints regarding healthy food.
-### Table Information: Participant Characteristics (Table 3) 
+### Table Information: Participant Characteristics (Table 3)
 
 |**Characteristic**|**NDM Group (No Diabetes)**|**DM Group (Diabetes)**|
 |---|---|---|
@@ -43,12 +43,12 @@ The **CRUZA** randomized trial involved 31 Catholic parishes serving Latinos i
 - **Implementation Preference:** Parishes most frequently utilized small media (bookmarks, bulletin inserts) because they were less complex to implement than one-to-one education or reducing structural barriers.
 ### Table Information: CRUZA Evidence-Based Strategies (Table 1) 
 
-|**EBS Type**|**Community Guide Definition**|**Sample Packaged Materials**|
-|---|---|---|
-|**Small Media**|Videos and printed materials (letters, brochures, newsletters)|Bible bookmarks, bulletin inserts, posters, tip sheets|
-|**Group Education**|Lectures or interactive formats by professionals or laypeople|Guest speakers, CRC Bingo|
-|**Client Reminders**|Written/telephone messages advising people they are due|Birthday cards with reminders, birthday bulletin inserts|
-|**One-to-One Education**|Delivery of info by professionals or lay advisors in person/phone|Conversations after mass|
-|**Reducing Barriers**|Addressing non-economic burdens (distance, time, language)|Transportation volunteers, childcare, community partnerships|
+| **EBS Type**             | **Community Guide Definition**                                    | **Sample Packaged Materials**                                |
+| ------------------------ | ----------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Small Media**          | Videos and printed materials (letters, brochures, newsletters)    | Bible bookmarks, bulletin inserts, posters, tip sheets       |
+| **Group Education**      | Lectures or interactive formats by professionals or laypeople     | Guest speakers, CRC Bingo                                    |
+| **Client Reminders**     | Written/telephone messages advising people they are due           | Birthday cards with reminders, birthday bulletin inserts     |
+| **One-to-One Education** | Delivery of info by professionals or lay advisors in person/phone | Conversations after mass                                     |
+| **Reducing Barriers**    | Addressing non-economic burdens (distance, time, language)        | Transportation volunteers, childcare, community partnerships |
 
 ---
