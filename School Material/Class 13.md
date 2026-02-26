@@ -12,31 +12,15 @@ The provided articles explore public health interventions tailored specifically 
 ### Summary
 
 This longitudinal mixed-method study assessed the **Vida Vibrante** (Vibrante Life) program in Southern California. Traditional models separate individuals into different programs based on diagnosis—the National Diabetes Prevention Program (NDPP) for pre-diabetes and Diabetes Self-management Education and Support (DSMES) for diabetes—which can create barriers for low-income H/L families who rely on collective support. The study found that a "hybrid" approach—treating the whole family regardless of their specific place on the dysglycemic spectrum—is feasible, cost-effective, and culturally acceptable.
-
-+4
-
 ### Key Takeaway Points
 
 - **Cultural Congruence:** Utilizing CHWs (promotores) and including family or friends significantly improved weight loss and retention.
-    
-    +2
-    
 - **Clinical Success:** Participants achieved an average weight loss of **3.29 lbs** (a large effect size of $d=0.77$).
-    
 - **Physician Influence:** Participants referred by a physician lost nearly twice as much weight (**5.19 lbs**) as those recruited from the community (**2.68 lbs**).
-    
-    +1
-    
 - **Cost-Effectiveness:** The program cost less than **$200 per participant**, compared to the $500–$800 range for national programs.
-    
-    +1
-    
 - **Barriers Identified:** Qualitative data highlighted barriers such as male gender (lower attendance), lack of safe neighborhood spaces for exercise, and financial constraints regarding healthy food.
-    
-    +2
-    
 
-Table Information: Participant Characteristics (Table 3) 
+### Table Information: Participant Characteristics (Table 3) 
 
 |**Characteristic**|**NDM Group (No Diabetes)**|**DM Group (Diabetes)**|
 |---|---|---|
@@ -61,7 +45,7 @@ The **CRUZA** randomized trial involved 31 Catholic parishes serving Latinos i
 - **Intervention Efficacy:** All participating parishes increased their cancer control activities. The CE group was significantly more likely to implement **small media** (90% vs 64% for SD).
 - **Readiness:** Findings suggest parishes may already have the capacity to implement health programs if materials are culturally adapted and "packaged" for lay leaders.
 - **Implementation Preference:** Parishes most frequently utilized small media (bookmarks, bulletin inserts) because they were less complex to implement than one-to-one education or reducing structural barriers.
-Table Information: CRUZA Evidence-Based Strategies (Table 1) 
+### Table Information: CRUZA Evidence-Based Strategies (Table 1) 
 
 |**EBS Type**|**Community Guide Definition**|**Sample Packaged Materials**|
 |---|---|---|
