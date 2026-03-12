@@ -1,1 +1,1 @@
-Cultural Humility - Belief that cultural competency is not an end goal bu
+Cultural Humility - Belief that cultural competency is not an end goal but rather a continuous process
