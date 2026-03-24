@@ -3,3 +3,5 @@
 ## Categories
 [[Class Notes]]
 
+# Test
+[[New]]
