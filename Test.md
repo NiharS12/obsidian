@@ -1,2 +1,0 @@
-Sync Test [NEW]
-hello
